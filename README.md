@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img src="https://icons.iconarchive.com/icons/google/noto-emoji-symbols/128/73014-ATM-sign-icon.png" />
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://icons.iconarchive.com/icons/google/noto-emoji-symbols/128/73014-ATM-sign-icon.png" /></a>
 </p>
 
 <br/>
