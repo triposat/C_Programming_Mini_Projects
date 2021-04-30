@@ -79,6 +79,14 @@ ___________________________
 
 ___________________________
 
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Smart%20Age%20Calculator/Smart_Age_Calculator.c"><img src="https://img.shields.io/badge/-SMART AGE CALCULATOR-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Smart%20Age%20Calculator/Smart_Age_Calculator.c"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/squareplex/128/Utilities-calculator-icon.png" /></a>
+</p>
+
+___________________________
+
 
 <br/>
 <p align="center">
