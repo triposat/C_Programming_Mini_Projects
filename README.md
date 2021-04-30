@@ -95,6 +95,14 @@ ___________________________
 
 ___________________________
 
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Tic%20Tac%20Toe/Tic_Tac_Toe.c"><img src="https://img.shields.io/badge/-TIC TAC TOE-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Tic%20Tac%20Toe/Tic_Tac_Toe.c"><img src="https://icons.iconarchive.com/icons/tanitakawkaw/simple-cute/128/exit-icon.png" /><img src="https://icons.iconarchive.com/icons/mattahan/umicons/128/Number-0-icon.png" /></a>
+</p>
+
+___________________________
+
 
 <br/>
 <p align="center">
