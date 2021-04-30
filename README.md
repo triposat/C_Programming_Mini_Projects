@@ -87,6 +87,14 @@ ___________________________
 
 ___________________________
 
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Text%20to%20Binary%20Converter/Text_To_Binary_Converter.c"><img src="https://img.shields.io/badge/-TEXT TO BINARY CONVERTER-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Text%20to%20Binary%20Converter/Text_To_Binary_Converter.c"><img src="https://icons.iconarchive.com/icons/mart/glaze/128/binary-icon.png" /></a>
+</p>
+
+___________________________
+
 
 <br/>
 <p align="center">
