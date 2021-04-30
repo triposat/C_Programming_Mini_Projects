@@ -7,7 +7,7 @@
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/C_Programming_Mini_Projects?color=red&label=Lines%20of%20Code)</br>
 ![](https://profile-counter.glitch.me/{Battery_Charge_Notifier}/count.svg)
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://img.shields.io/badge/-ATM MACHINE-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://img.shields.io/badge/-ATM MACHINE-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
 <a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://icons.iconarchive.com/icons/aha-soft/universal-shop/128/Cash-register-icon.png" /></a>
@@ -15,7 +15,7 @@
 
 ___________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://img.shields.io/badge/-BANK MANAGEMENT SYSTEM-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://img.shields.io/badge/-BANK MANAGEMENT SYSTEM-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
 <a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://icons.iconarchive.com/icons/custom-icon-design/pretty-office-11/128/coins-icon.png" /></a>
@@ -23,7 +23,7 @@ ___________________________
 
 ___________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Calendar/Calendar.c"><img src="https://img.shields.io/badge/-YEAR CALENDAR-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Calendar/Calendar.c"><img src="https://img.shields.io/badge/-YEAR CALENDAR-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
 <a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Calendar/Calendar.c"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/128/Google-Calendar-icon.png" /></a>
@@ -31,7 +31,7 @@ ___________________________
 
 ___________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Digital%20Clock/Digital_Clock.c"><img src="https://img.shields.io/badge/-DIGITAL CLOCK-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Digital%20Clock/Digital_Clock.c"><img src="https://img.shields.io/badge/-DIGITAL CLOCK-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
 <a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Digital%20Clock/Digital_Clock.c"><img src="https://icons.iconarchive.com/icons/vcferreira/firefox-os/128/clock-icon.png" /></a>
@@ -39,7 +39,7 @@ ___________________________
 
 ___________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/KBC%20Quiz%20bot/KBC_Quiz_Bot.c"><img src="https://img.shields.io/badge/-KBC QUIZ BOT-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/KBC%20Quiz%20bot/KBC_Quiz_Bot.c"><img src="https://img.shields.io/badge/-KBC QUIZ BOT-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
 <a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/KBC%20Quiz%20bot/KBC_Quiz_Bot.c"><img src="https://icons.iconarchive.com/icons/lboi/tweetscotty/128/twitter-bot-icon.png" /></a>
