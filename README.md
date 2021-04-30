@@ -16,6 +16,6 @@
 
 <br/>
 <p align="center">
-<img src="https://badges.pufler.dev/updated/Iamtripathisatyam//?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/C_Programming_Mini_Projects?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/C_Programming_Mini_Projects?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
