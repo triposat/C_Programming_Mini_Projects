@@ -31,6 +31,14 @@ ___________________________
 
 ___________________________
 
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Digital%20Clock/Digital_Clock.c"><img src="https://img.shields.io/badge/-DIGITAL CLOCK-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Digital%20Clock/Digital_Clock.c"><img src="https://icons.iconarchive.com/icons/vcferreira/firefox-os/128/clock-icon.png" /></a>
+</p>
+
+___________________________
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/C_Programming_Mini_Projects?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
