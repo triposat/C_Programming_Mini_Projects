@@ -3,15 +3,11 @@
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)</br>
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/C_Programming_Mini_Projects?color=red&label=Lines%20of%20Code)</br>
 
-<p align="center">
 <img src="https://forthebadge.com/images/badges/for-you.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-c.svg" />
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
-</p>
+<img src="https://profile-counter.glitch.me/{Battery_Charge_Notifier}/count.svg" alt=Iamtripathisatyam />
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{Battery_Charge_Notifier}/count.svg" alt=Iamtripathisatyam />
-</p>
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://img.shields.io/badge/-ATM MACHINE USING C-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
