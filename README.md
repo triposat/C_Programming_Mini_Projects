@@ -7,12 +7,18 @@
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/C_Programming_Mini_Projects?color=red&label=Lines%20of%20Code)</br>
 ![](https://profile-counter.glitch.me/{Battery_Charge_Notifier}/count.svg)
 
-___________________________
-
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://img.shields.io/badge/-ATM MACHINE-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
 <a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://icons.iconarchive.com/icons/google/noto-emoji-symbols/128/73014-ATM-sign-icon.png" /></a>
+</p>
+
+___________________________
+
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://img.shields.io/badge/-BANK MANAGEMENT SYSTEM-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/128/Bank-Check-icon.png" /></a>
 </p>
 
 ___________________________
