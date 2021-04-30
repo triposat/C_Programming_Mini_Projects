@@ -79,6 +79,14 @@ ___________________________
 
 ___________________________
 
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Password%20Generator/Password_Generator.c"><img src="https://img.shields.io/badge/-PASSWORD GENERATOR-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Password%20Generator/Password_Generator.c"><img src="https://icons.iconarchive.com/icons/sbstnblnd/plateau/128/Apps-password-icon.png" /></a>
+</p>
+
+___________________________
+
 
 <br/>
 <p align="center">
