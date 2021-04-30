@@ -10,7 +10,7 @@
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://img.shields.io/badge/-ATM MACHINE-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://icons.iconarchive.com/icons/google/noto-emoji-symbols/128/73014-ATM-sign-icon.png" /></a>
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://icons.iconarchive.com/icons/aha-soft/universal-shop/128/Cash-register-icon.png" /></a>
 </p>
 
 ___________________________
@@ -18,7 +18,7 @@ ___________________________
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://img.shields.io/badge/-BANK MANAGEMENT SYSTEM-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/128/Bank-Check-icon.png" /></a>
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://icons.iconarchive.com/icons/custom-icon-design/pretty-office-11/128/coins-icon.png" /></a>
 </p>
 
 ___________________________
