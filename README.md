@@ -47,6 +47,14 @@ ___________________________
 
 ___________________________
 
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Library%20Management%20System/Library_Management_System.c"><img src="https://img.shields.io/badge/-LIBRARY MANAGEMENT SYSTEM-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Library%20Management%20System/Library_Management_System.c"><img src="https://icons.iconarchive.com/icons/itzikgur/my-seven/128/Books-1-icon.png" /></a>
+</p>
+
+___________________________
+
 
 <br/>
 <p align="center">
