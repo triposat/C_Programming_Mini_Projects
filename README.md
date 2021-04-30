@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<img src="https://icons.iconarchive.com/icons/designcontest/ecommerce-business/256/atm-money-icon.png" />
+<img src="https://icons.iconarchive.com/icons/iconsmind/outline/256/ATM-icon.png" />
 </p>
 
 <br/>
