@@ -50,11 +50,18 @@ ___________________________
 <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Library%20Management%20System/Library_Management_System.c"><img src="https://img.shields.io/badge/-LIBRARY MANAGEMENT SYSTEM-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Library%20Management%20System/Library_Management_System.c"><img src="https://icons.iconarchive.com/icons/itzikgur/my-seven/128/Books-1-icon.png" /></a>
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Library%20Management%20System/Library_Management_System.c"><img src="https://icons.iconarchive.com/icohttps://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/MS%20%20Word/MS_Word.cns/itzikgur/my-seven/128/Books-1-icon.png" /></a>
 </p>
 
 ___________________________
 
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/MS%20%20Word/MS_Word.c"><img src="https://img.shields.io/badge/-FONT CASE-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+
+<p align="center">
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/MS%20%20Word/MS_Word.c"><img src="https://icons.iconarchive.com/icons/toma4025/rumax/128/folder-fonts-icon.png" /></a>
+</p>
+
+___________________________
 
 <br/>
 <p align="center">
