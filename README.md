@@ -103,6 +103,7 @@ ___________________________
 
 ___________________________
 
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects">Made with <img src="https://cutt.ly/Ibll2Li" width="20px"> in India</a><h3/>
 
 <br/>
 <p align="center">
