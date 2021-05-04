@@ -105,8 +105,9 @@ ___________________________
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects">Made with <img src="https://cutt.ly/Ibll2Li" width="20px"> in India</a><h3/>
 
-<br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/C_Programming_Mini_Projects?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/C_Programming_Mini_Projects?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
+
+<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
