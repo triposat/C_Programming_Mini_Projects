@@ -1,4 +1,4 @@
-// Note: Try to Run this Code on DEV-C++
+// Note: Try to Run this Code on DEV-C++ IDE
 
 #include <stdio.h>
 #include <string.h>
