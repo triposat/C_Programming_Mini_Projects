@@ -101,8 +101,6 @@ ___________________________
 <a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Tic%20Tac%20Toe/Tic_Tac_Toe.c"><img src="https://cutt.ly/Hblk2yb" /><img src="https://cutt.ly/Xblk9vT" /></a>
 </p>
 
-___________________________
+___________________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects">Made with <img src="https://cutt.ly/Ibll2Li" width="20px"> in India</a><h3/>
-
-<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
+<p>&copy; 2021 Satyam Tripathi</p>
