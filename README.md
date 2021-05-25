@@ -15,10 +15,10 @@
 
 ___________________________
 
-<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://img.shields.io/badge/-ATM MACHINE-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://img.shields.io/badge/-BANK MANAGEMENT SYSTEM-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://cutt.ly/6blkDZF" /></a>
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://cutt.ly/RblkF7N" /></a>
 </p>
 
 ___________________________
@@ -47,10 +47,10 @@ ___________________________
 
 ___________________________
 
-<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://img.shields.io/badge/-BANK MANAGEMENT SYSTEM-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://img.shields.io/badge/-ATM MACHINE-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://cutt.ly/RblkF7N" /></a>
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/ATM/ATM_System.c"><img src="https://cutt.ly/6blkDZF" /></a>
 </p>
 
 ___________________________
