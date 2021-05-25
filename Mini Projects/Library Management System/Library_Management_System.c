@@ -206,23 +206,23 @@ void deletebooks()
                 printf("\n\n\n\t\t");
                 printf(" \xB2\xB2\xB2  The book record is available  \xB2\xB2\xB2");
                 printf("\n\n\n\t\t");
-                printf("\xB2\xB2  Book name is  : %s", a.name);
+                printf("\xB2\xB2  Book name is: %s", a.name);
                 printf("\n\n\n\t\t");
-                printf("\xB2\xB2  Rack No. is   : %d", a.rackno);
+                printf("\xB2\xB2  Rack No. is: %d", a.rackno);
                 findbook = 't';
             }
         }
         if (findbook != 't')
         {
             printf("\n\n\n\t\t");
-            printf("No Record Is Found PLEASE Mpdify The Search");
+            printf("No Record is found please modify the search");
             if (getch())
                 mainmenu();
         }
         if (findbook == 't')
         {
             printf("\n\n\n\t\t");
-            printf("Do you want to DELETE it?(Y/N):");
+            printf("Do you want to DELETE it? (Y/N): ");
             if (getch() == 'y')
             {
                 ft = fopen("Stests.dat", "wb+");
@@ -264,9 +264,9 @@ void searchbooks()
     int d;
     int g;
     printf("\n\n\t\t\t\xDB\xDB\xDB\xDB\xB2 SEARCH BOOKS \xDB\xDB\xDB\xDB\xB2");
-    printf("\n\n\n\n\t\t\t\xDB\xDB\xDB\xB2 1. Search By ID");
-    printf("\n\n\n\t\t\t\xDB\xDB\xDB\xB2 2. Search By Name");
-    printf("\n\n\n   \t\t\tEnter Your Choice : ");
+    printf("\n\n\n\n\t\t\t\xDB\xDB\xDB\xB2 1. Search by ID");
+    printf("\n\n\n\t\t\t\xDB\xDB\xDB\xB2 2. Search by Name");
+    printf("\n\n\n   \t\t\tEnter Your Choice: ");
     fp = fopen("SATYAMs.dat", "rb+");
     rewind(fp);
     switch (getch())
@@ -275,7 +275,7 @@ void searchbooks()
     {
         system("cls");
         printf("\n\n\t\t\t @@@@@ Search Books By Id @@@@@");
-        printf("\n\n\n\t\t\t\tEnter the book id : \n\n\t\t\t\t\t");
+        printf("\n\n\n\t\t\t\tEnter the book id: \n\n\t\t\t\t\t");
         scanf("%d", &d);
         system("cls");
         printf("\n\n\n\t\t\t\tSearching");
@@ -299,12 +299,12 @@ void searchbooks()
                 system("cls");
                 printf("\n\n\t\t\tThe Book is available");
                 printf("\n\n\t\t\t\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2");
-                printf("\n\n\t\t\t\xB2\xB2\xB2 ID       : %d", a.id);
-                printf("\n\n\t\t\t\xB2\xB2\xB2 Name     : %s", a.name);
-                printf("\n\n\t\t\t\xB2\xB2\xB2 Author   : %s ", a.Author);
-                printf("\n\n\t\t\t\xB2\xB2\xB2 Qantity  : %d ", a.quantity);
-                printf("\n\n\t\t\t\xB2\xB2\xB2 Price:Rs : %.2f", a.Price);
-                printf("\n\n\t\t\t\xB2\xB2\xB2 Rack No  : %d ", a.rackno);
+                printf("\n\n\t\t\t\xB2\xB2\xB2 ID: %d", a.id);
+                printf("\n\n\t\t\t\xB2\xB2\xB2 Name: %s", a.name);
+                printf("\n\n\t\t\t\xB2\xB2\xB2 Author: %s ", a.Author);
+                printf("\n\n\t\t\t\xB2\xB2\xB2 Qantity: %d ", a.quantity);
+                printf("\n\n\t\t\t\xB2\xB2\xB2 Price: %.2f", a.Price);
+                printf("\n\n\t\t\t\xB2\xB2\xB2 Rack No.: %d ", a.rackno);
                 findbook = 't';
             }
         }
@@ -314,7 +314,7 @@ void searchbooks()
             printf("\n\n\n\n\n\t\t\t\tNo Record Found");
             Sleep(2000);
         }
-        printf("\n\n\n\t\t\t Do You Want To Search Another Book ? (Y/N)");
+        printf("\n\n\n\t\t\t Do You Want To Search Another Book? (Y/N)");
         if (getch() == 'y' || getch() == 'Y')
             searchbooks();
         else
@@ -336,12 +336,12 @@ void searchbooks()
                 system("cls");
                 printf("\n\n\t\t\tThe Book is available");
                 printf("\n\n\t\t\t\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2");
-                printf("\n\n\t\t\t\xB2\xB2\xB2 ID      : %d", a.id);
-                printf("\n\n\t\t\t\xB2\xB2\xB2 Name     :%s", a.name);
-                printf("\n\n\t\t\t\xB2\xB2\xB2 Author   :%s ", a.Author);
-                printf("\n\n\t\t\t\xB2\xB2\xB2 Qantity  :%d ", a.quantity);
-                printf("\n\n\t\t\t\xB2\xB2\xB2 Price:Rs :%.2f", a.Price);
-                printf("\n\n\t\t\t\xB2\xB2\xB2 Rack No  :%d ", a.rackno);
+                printf("\n\n\t\t\t\xB2\xB2\xB2 ID: %d", a.id);
+                printf("\n\n\t\t\t\xB2\xB2\xB2 Name:%s", a.name);
+                printf("\n\n\t\t\t\xB2\xB2\xB2 Author:%s ", a.Author);
+                printf("\n\n\t\t\t\xB2\xB2\xB2 Qantity:%d ", a.quantity);
+                printf("\n\n\t\t\t\xB2\xB2\xB2 Price: %.2f", a.Price);
+                printf("\n\n\t\t\t\xB2\xB2\xB2 Rack No. :%d ", a.rackno);
                 d++;
             }
         }
@@ -392,10 +392,10 @@ void issuebooks(void)
             if (checkid(t) == 0)
             {
                 system("cls");
-                printf("\n\n\n\n\n\t\t\tThe book Record is Available : ");
-                printf("\n\n\t\t\tThere are %d unissued books in library : ", a.quantity);
-                printf("\n\n\n\t\t\tThe name of book is : %s", a.name);
-                printf("\n\n\n\t\t\tEnter student name  : ");
+                printf("\n\n\n\n\n\t\t\tThe book Record is Available: ");
+                printf("\n\n\t\t\tThere are %d unissued books in library: ", a.quantity);
+                printf("\n\n\n\t\t\tThe name of book is: %s", a.name);
+                printf("\n\n\n\t\t\tEnter student name: ");
                 gets(a.stname);
                 printf("\n\n\t\t\tThe BOOK of ID %d is ISSUED", a.id);
                 time_t t = time(NULL);
@@ -417,7 +417,7 @@ void issuebooks(void)
                     a.duedate.yy = a.duedate.yy + a.duedate.mm / 12;
                     a.duedate.mm = a.duedate.mm - 12;
                 }
-                printf("\n\n\t\t\tTo be RETURN : %d-%d-%d", a.duedate.dd, a.duedate.mm, a.duedate.yy);
+                printf("\n\n\t\t\tTo be RETURN: %d-%d-%d", a.duedate.dd, a.duedate.mm, a.duedate.yy);
                 fseek(fs, sizeof(a), SEEK_END);
                 fwrite(&a, sizeof(a), 1, fs);
                 fclose(fs);
@@ -427,7 +427,7 @@ void issuebooks(void)
             {
                 printf("\n\n\t\t\t\t\tNo Record Found");
             }
-            printf("\n\n\n\n\n\t\t\t\tDo You Want To ISSUE any more Books(Y/N):");
+            printf("\n\n\n\n\n\t\t\t\tDo you want to issue any more books (Y/N):");
             fflush(stdin);
             another = getche();
             fclose(fp);
@@ -442,12 +442,12 @@ void issuebooks(void)
         fs = fopen("IssueSs.dat", "rb");
         while (fread(&a, sizeof(a), 1, fs) == 1)
         {
-            printf("\n\n\n\n\t\t\t CATEGORY : %s", a.cat);
-            printf("\n\n\t\t\t Id : %d", a.id);
-            printf("\n\n\t\t\t BOOK NAME : %s", a.name);
-            printf("\n\n\t\t\t ISSUED DATE : %d-%d-%d", a.issued.dd, a.issued.mm, a.issued.yy);
-            printf("\n\n\t\t\t RETURN DATE : %d-%d-%d", a.duedate.dd, a.duedate.mm, a.duedate.yy);
-            printf("\n\n\t\t\t STUDENT NAME : %s", a.stname);
+            printf("\n\n\n\n\t\t\t CATEGORY: %s", a.cat);
+            printf("\n\n\t\t\t Id: %d", a.id);
+            printf("\n\n\t\t\t BOOK NAME: %s", a.name);
+            printf("\n\n\t\t\t ISSUED DATE: %d-%d-%d", a.issued.dd, a.issued.mm, a.issued.yy);
+            printf("\n\n\t\t\t RETURN DATE: %d-%d-%d", a.duedate.dd, a.duedate.mm, a.duedate.yy);
+            printf("\n\n\t\t\t STUDENT NAME: %s", a.stname);
         }
         fclose(fs);
         returnfunc();
@@ -456,7 +456,7 @@ void issuebooks(void)
     case '3':
     {
         system("cls");
-        printf("\n\n\n\n\n\t\t\t\tEnter Book ID:\n\n\t\t\t\t");
+        printf("\n\n\n\n\n\t\t\t\tEnter Book ID: \n\n\t\t\t\t");
         int p, c = 0;
         char another = 'y';
         while (another == 'y' || another == 'Y')
@@ -483,7 +483,7 @@ void issuebooks(void)
                 Sleep(2000);
             }
             system("cls");
-            printf("\n\n\t\t\t\tDo You Want to search Any other Book ? (Y/N)");
+            printf("\n\n\t\t\t\tDo You Want to search Any other Book?(Y/N)");
             another = getch();
         }
     }
@@ -496,7 +496,7 @@ void issuebooks(void)
         char another = 'y';
         while (another == 'y' || another == 'Y')
         {
-            printf("\n\n\t\t\t\tEnter BOOK ID  TO \"REMOVE\" : \n\n\t\t\t\t");
+            printf("\n\n\t\t\t\tEnter BOOK ID  TO \"REMOVE\": \n\n\t\t\t\t");
             scanf("%d", &b);
             fs = fopen("IssueSs.dat", "rb+");
             while (fread(&a, sizeof(a), 1, fs) == 1)
@@ -508,7 +508,7 @@ void issuebooks(void)
                 }
                 if (findbook == 't')
                 {
-                    printf("\n\n\n\t\t\t\tDo You Want to REMOVE it?(Y/N)");
+                    printf("\n\n\n\t\t\t\tDo You Want to REMOVE it? (Y/N)");
                     if (getch() == 'y')
                     {
                         fg = fopen("recordSs.dat", "wb+");
@@ -536,14 +536,14 @@ void issuebooks(void)
                 }
             }
             system("cls");
-            printf("\n\n\n\n\n\t\t\t\tDo You Want to DELETE Any Other Record ?? (Y/N)");
+            printf("\n\n\n\n\n\t\t\t\tDo You Want to DELETE Any Other Record? (Y/N)");
             another = getch();
         }
     }
     break;
     default:
         system("cls");
-        printf("\n\n\n\n\n\t\t\t\t\aWrong Entry!!");
+        printf("\n\n\n\n\n\t\t\t\t\aWrong Entry!");
         getch();
         issuebooks();
         break;
@@ -558,17 +558,17 @@ void viewbooks(void)
     fp = fopen("SATYAMs.dat", "rb");
     while (fread(&a, sizeof(a), 1, fp) == 1)
     {
-        printf("\n\n\n\n\t\t\t CATEGORY : %s", a.cat);
-        printf("\n\n\t\t\t Id : %d", a.id);
-        printf("\n\n\t\t\t BOOK NAME : %s", a.name);
-        printf("\n\n\t\t\t AUTHOR : %s", a.Author);
-        printf("\n\n\t\t\t QTY : %d", a.quantity);
-        printf("\n\n\t\t\t PRICE : %.2f", a.Price);
-        printf("\n\n\t\t\t RACK NO. : %d", a.rackno);
+        printf("\n\n\n\n\t\t\t CATEGORY: %s", a.cat);
+        printf("\n\n\t\t\t Id: %d", a.id);
+        printf("\n\n\t\t\t BOOK NAME: %s", a.name);
+        printf("\n\n\t\t\t AUTHOR: %s", a.Author);
+        printf("\n\n\t\t\t QTY: %d", a.quantity);
+        printf("\n\n\t\t\t PRICE: %.2f", a.Price);
+        printf("\n\n\t\t\t RACK NO.: %d", a.rackno);
         printf("\n\n\n");
         i = i + a.quantity;
     }
-    printf("\n\n\tTotal Books =%d", i);
+    printf("\n\n\tTotal Books = %d", i);
     fclose(fp);
     returnfunc();
 }
@@ -583,7 +583,7 @@ void editbooks(void)
     while (another == 'y' || another == 'Y')
     {
         system("cls");
-        printf("\n\n\t\t\t\tEnter Book Id to be EDITED : \n\n\t\t\t\t\t");
+        printf("\n\n\t\t\t\tEnter Book Id to be EDITED: \n\n\t\t\t\t\t");
         scanf("%d", &d);
         fp = fopen("SATYAMs.dat", "rb+");
         while (fread(&a, sizeof(a), 1, fp) == 1)
@@ -591,18 +591,18 @@ void editbooks(void)
             if (checkid(d) == 0)
             {
                 printf("\n\n\t\t\t\tThe BOOK is AVAILABLE");
-                printf("\n\n\t\t\t\tThe Book ID : %d", a.id);
+                printf("\n\n\t\t\t\tThe Book ID: %d", a.id);
                 fflush(stdin);
-                printf("\n\n\t\t\t\tEnter New Book Name : ");
+                printf("\n\n\t\t\t\tEnter New Book Name: ");
                 gets(a.name);
-                printf("\n\n\t\t\t\tEnter New Author Name : ");
+                printf("\n\n\t\t\t\tEnter New Author Name:  ");
                 gets(a.Author);
                 fflush(stdin);
-                printf("\n\n\t\t\t\tEnter New Quantity : ");
+                printf("\n\n\t\t\t\tEnter New Quantity: ");
                 scanf("%d", &a.quantity);
-                printf("\n\n\t\t\t\tEnter New Price : ");
+                printf("\n\n\t\t\t\tEnter New Price: ");
                 scanf("%f", &a.Price);
-                printf("\n\n\t\t\t\tEnter New Rack No. : ");
+                printf("\n\n\t\t\t\tEnter New Rack No.: ");
                 scanf("%d", &a.rackno);
                 system("cls");
                 printf("\n\n\n\n\n\t\t\t\t Record is Modifying ");
@@ -642,7 +642,7 @@ void editbooks(void)
             }
         }
         system("cls");
-        printf("\n\n\n\n\t\t\t\tDo You Want To Modify another Record ? (Y/N)");
+        printf("\n\n\n\n\t\t\t\tDo You Want To Modify another Record? (Y/N)");
         fflush(stdin);
         another = getch();
     }
