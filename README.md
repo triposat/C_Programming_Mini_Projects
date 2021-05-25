@@ -15,12 +15,11 @@
 
 ___________________________
 
-<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://img.shields.io/badge/-BANK MANAGEMENT SYSTEM-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Library%20Management%20System/Library_Management_System.c"><img src="https://img.shields.io/badge/-LIBRARY MANAGEMENT SYSTEM-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://cutt.ly/RblkF7N" /></a>
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Library%20Management%20System/Library_Management_System.c"><img src="https://cutt.ly/ablkZA6" /></a>
 </p>
-
 ___________________________
 
 <h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Calendar/Calendar.c"><img src="https://img.shields.io/badge/-YEAR CALENDAR-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
@@ -47,10 +46,10 @@ ___________________________
 
 ___________________________
 
-<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Library%20Management%20System/Library_Management_System.c"><img src="https://img.shields.io/badge/-LIBRARY MANAGEMENT SYSTEM-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
+<h3 align="center"><a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://img.shields.io/badge/-BANK MANAGEMENT SYSTEM-black?logo=c&logoColor=yellow&style=flat-square"></a><h3/>
 
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Library%20Management%20System/Library_Management_System.c"><img src="https://cutt.ly/ablkZA6" /></a>
+<a href="https://github.com/Iamtripathisatyam/C_Programming_Mini_Projects/blob/main/Mini%20Projects/Bank/Bank_Management_System.c"><img src="https://cutt.ly/RblkF7N" /></a>
 </p>
 
 ___________________________
