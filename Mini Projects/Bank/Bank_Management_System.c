@@ -1,4 +1,4 @@
-// Note: Try to run this Code DEV-C++ IDE
+// Note: Try to run this Code on DEV-C++ IDE
 
 #include <stdio.h>
 #include <conio.h>
