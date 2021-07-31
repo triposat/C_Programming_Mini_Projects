@@ -1,4 +1,3 @@
-![](https://forthebadge.com/images/badges/for-you.svg)
 ![](http://ForTheBadge.com/images/badges/made-with-c.svg)
 ![](https://forthebadge.com/images/badges/built-by-developers.svg)</br>
 ![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/C_Programming_Mini_Projects?color=red&label=Repo%20Size%20)
