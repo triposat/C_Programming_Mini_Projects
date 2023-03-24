@@ -1,5 +1,5 @@
 // Note: Try to run this Code on DEV-C++ IDE
-
+// this is code of bank management system
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
